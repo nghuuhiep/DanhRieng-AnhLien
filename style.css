@@ -105,5 +105,5 @@ p{
     font-size: 5vh;
     font-weight: bolder;
     opacity: 0;
-    transition: 10s cubic-bezier(0,0,.87,.59);
+    transition: 10s cubic-bezier(1,0,.87,.59);
 }
