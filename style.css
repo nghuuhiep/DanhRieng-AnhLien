@@ -34,6 +34,7 @@ body{
 p{
     /* border: 2px solid red; */
     transition: 4s cubic-bezier(.17,.5,0,1);
+    font-size: 1.3vh;
 }
 .slider{
     display: flex;
